@@ -13,18 +13,18 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "FOSS4GNL 2018"
 email: "foss4g@osgeo.nl"
 description: "FOSS4G"
-baseurl: "/test"
-url: "https://gdg-x.github.io"
+baseurl: "/zeppelin"
+url: "https://jasperroest.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerName: "OSgeo.nl"
+organizerAlternateName: "Open Source Geo Nederland"
+organizerDescription: "..."
+organizerEmail: "foss4g@osgeo.nl"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://lviv.gdg.org.ua/"
 
@@ -65,11 +65,10 @@ heroButtons:
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "Over FOSS4GNL 2018"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Conferentie", image: "conference.jpg", text: "..." }
+ - {title: "Workshops", image: "workshop.jpg", text: "..." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -80,29 +79,29 @@ statisticBlock:
  - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Nieuws"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersTitle: "Sprekers"
+rockstarSpeakersButtonText: "Zie alle sprekers"
 
 # Location Block
-locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
+locationBlockTitle: "Locatie"
+eventLocationName: "Aeres Hogeschool"
 eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
-eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
-eventStartTime: "2014-10-25T10:00"
+eventStreetAddress: "Stadhuisstraat 18"
+eventAddressLocality: "Almere"
+eventAddressLocalityRegion: "Flevoland"
+eventPostalCode: "1315 AK"
+eventAddressCountry: "Nederland"
+eventStartTime: "2018-10-25T10:00"
 eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "49.843237, 24.028751"
-mapCenterCoordinates: "49.842537, 24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventEndTime: "2014-07-11T00:00"
+eventPlaceCoordinates: "52.3716506, 5.219236099999989"
+mapCenterCoordinates: "52.3716506, 5.219236099999989"
+mapMobileCenterCoordinates: "52.3716506, 5.219236099999989"
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -120,18 +119,18 @@ twitterHashTag: "devfest"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-organizersTitle: "Organizers"
+organizersTitle: "Organizatoren"
 partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+partnersC4sponsorsButton: "Wordt een sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
+subscribeTitle: "Registreer voor updates"
 subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Pricetable"
+ticketsTitle: "Prijslijst"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
@@ -185,7 +184,7 @@ footerBlocks:
    - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
-  title: "Contacts"
+  title: "Contact"
   links:
    - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
  -
@@ -226,7 +225,7 @@ directionDetailsCards:
  - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
 directionDetailsWideCards:
  -
-  title: "Questions?"
+  title: "Vragen?"
   subCards:
    -
     title: "Hotels"
@@ -273,7 +272,7 @@ prizes:
  - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
 
 # Hackathon Location Block
-hackathonLocationBlockTitle: "Location"
+hackathonLocationBlockTitle: "Locatie"
 hackathonLocationName: "Communa"
 hackathonLocationLink: "http://communa.net.ua/"
 hackathonStreetAddress: "1 Halytska St"
