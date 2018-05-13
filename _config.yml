@@ -44,15 +44,15 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/planning/", text: "Planning"}
+ - {permalink: "/sprekers/", text: "Sprekers"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/logistiek/", text: "Logistiek"}
  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Wordt een spreker"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Wordt een spreker"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -73,10 +73,10 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "350", specialCharacter: "+", info: "deelnemers", detail: "overal vandaan"}
+ - {count: "48", specialCharacter: "+", info: "uren", detail: "vol OS geo ontwikkelingen"}
+ - {count: "20", specialCharacter: "+", info: "sprekers", detail: "uit NL en de rest van de wereld"}
+ - {count: "3", specialCharacter: "", info: "parallele sessies", detail: "plus entertainment lounge"}
 
 # Latest News Block
 latestNewsTitle: "Nieuws"
@@ -104,7 +104,7 @@ mapCenterCoordinates: "52.3716506, 5.219236099999989"
 mapMobileCenterCoordinates: "52.3716506, 5.219236099999989"
 
 # Venue Block
-venueBlockTitle: "Venue"
+venueBlockTitle: "Aeres Hogeschool"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
