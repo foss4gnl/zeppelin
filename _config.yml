@@ -47,7 +47,7 @@ navigationLinks:
  - {permalink: "/programma/", text: "Programma"}
  - {permalink: "/sprekers/", text: "Sprekers"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistiek/", text: "Logistiek"}
+ - {permalink: "/praktisch/", text: "Praktisch"}
  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Wordt een spreker"}
