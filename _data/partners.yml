@@ -3,7 +3,7 @@
   elements: 
     - {name: "Merkator", description: "Merkator", link: "https://www.merkator.com", imageUrl: "logo-merkator.png"}
     - {name: "Geon", description: "Geon", link: "https://www.geon.nl", imageUrl: "logo-geon.png"}
-    
+-
   group: "Zilver"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
