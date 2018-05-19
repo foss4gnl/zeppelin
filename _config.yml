@@ -45,10 +45,10 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/programma/", text: "Programma"}
- - {permalink: "/sprekers/", text: "Sprekers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/praktisch/", text: "Praktisch"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+# - {permalink: "/sprekers/", text: "Sprekers"}
+# - {permalink: "/team/", text: "Team"}
+# - {permalink: "/praktisch/", text: "Praktisch"}
+# - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Wordt een spreker"}
 rightNavigationButtons:
