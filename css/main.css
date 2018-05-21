@@ -2287,6 +2287,7 @@ time{
     background-size:cover
 }
 #typed-cursor{
+    visibility:hidden;
     font-weight:100;
     -webkit-animation:blink .7s infinite;
     animation:blink .7s infinite;
