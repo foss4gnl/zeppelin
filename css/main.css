@@ -2576,7 +2576,7 @@ nav li a.current,nav li a:hover{
     margin:0 3px
 }
 .typeout-fallback{
-    display:none
+    display:none !important
 }
 .explore{
     margin-left:-16px;
@@ -4738,7 +4738,7 @@ nav li a.current,nav li a:hover{
         padding:0
     }
     .typeout-fallback{
-        display:inline-block
+        display:none !important
     }
     .explore{
         margin-left:-12.5px;
