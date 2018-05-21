@@ -57,10 +57,10 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "FOSS4GNL <typeout> 2018"
+heroTitle: "FOSS4GNL 2018"
 eventDate: "11 juli 2018"
-typeoutTextValues: '"", "Aeres Hogeschool", "Almere"'
-typeoutFallback: "Almere"
+typeoutTextValues: '""'
+typeoutFallback: ""
 heroButtons:
 #  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
  - {link: "https://www.eventbrite.nl/e/tickets-foss4gnl-2018-46048701907", text: "Aanmelden"}
