@@ -59,8 +59,6 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "FOSS4GNL 2018"
 eventDate: "10-11 juli 2018"
-typeoutTextValues: '""'
-typeoutFallback: ""
 heroButtons:
 #  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
  - {link: "https://www.eventbrite.nl/e/tickets-foss4gnl-2018-46048701907", text: "Aanmelden"}
