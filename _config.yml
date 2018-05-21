@@ -50,9 +50,9 @@ navigationLinks:
 # - {permalink: "/praktisch/", text: "Praktisch"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Wordt een spreker"}
+ - {link: "https://www.eventbrite.nl/e/tickets-foss4gnl-2018-46048701907", text: "Aanmelden"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Wordt een spreker"}
+ - {link: "https://www.eventbrite.nl/e/tickets-foss4gnl-2018-46048701907", text: "Aanmelden"}
 
 # Hero Block
 heroImage: "hero.jpg"
