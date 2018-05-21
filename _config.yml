@@ -45,7 +45,8 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Nieuws"}
  - {permalink: "/schedule/", text: "Programma"}
- - {permalink: "/speakers/", text: "Sprekers"}
+ - {permalink: "https://www.google.com, text: Workshops"}
+# - {permalink: "/speakers/", text: "Workshops"}
 # - {permalink: "/team/", text: "Team"}
 # - {permalink: "/praktisch/", text: "Praktisch"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
