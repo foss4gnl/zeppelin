@@ -29,8 +29,8 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+metaKeywords: "event, osgeo, conferentie, open source, geo, gis, almere, geographic, nederland"
+twitterAccount: "@osgeonl"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -134,41 +134,43 @@ ticketsTitle: "Prijslijst"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
-  name: "Early Bird"
-  price: "350"
+  name: "Golden ticket 11 juli"
+  price: "50"
   priceCurrency: "Euro"
-  ticketsNumber: "150"
+  ticketsNumber: "200"
   ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "https://www.eventbrite.nl/e/tickets-foss4gnl-2018-46048701907#tickets"
   buyButtonText: "Koop nu"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-08-25T10:00"
   validThrough: "2014-09-30T23:59"
+  soldOut: false
  -
-  name: "Last Chance"
-  price: "450"
+  name: "Workshops ochtend 10 juli"
+  price: "100"
   priceCurrency: "Euro"
-  ticketsNumber: "100"
+  ticketsNumber: "200"
   ribbon: "-20%"
   featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "https://www.eventbrite.nl/e/tickets-foss4gnl-2018-46048701907#tickets"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-10-01T00:00"
   validThrough: "2014-10-23T23:59"
-  disabled: true
+  soldOut: false
+  disabled: false
  -
-  name: "Student"
-  price: "200"
+  name: "Workshops middag 10 juli"
+  price: "100"
   priceCurrency: "Euro"
-  ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  ticketsNumber: "200"
+  buyButtonLink: "https://www.eventbrite.nl/e/tickets-foss4gnl-2018-46048701907#tickets"
   buyButtonText: "Koop nu"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+  additionalInfo: ""
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-08-20T10:00"
   validThrough: "2014-10-23T23:59"
-  soldOut: true
+  soldOut: false
   soldOutText: "Uitverkocht"
 
 # Footer
