@@ -62,7 +62,7 @@ typeoutTextValues: '"", "Aeres Hogeschool", "Almere"'
 typeoutFallback: "Almere"
 heroButtons:
 #  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "https://www.eventbrite.nl/e/tickets-foss4gnl-2018-46048701907", text: "Aanmelden"}
 
 # About Block
 aboutTitle: "Over FOSS4GNL 2018"
@@ -73,10 +73,10 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "deelnemers", detail: "overal vandaan"}
- - {count: "48", specialCharacter: "+", info: "uren", detail: "vol OS geo ontwikkelingen"}
- - {count: "20", specialCharacter: "+", info: "sprekers", detail: "uit NL en de rest van de wereld"}
- - {count: "3", specialCharacter: "", info: "parallele sessies", detail: "plus entertainment lounge"}
+ - {count: "200", specialCharacter: "", info: "deelnemers", detail: ""}
+ - {count: "44", specialCharacter: "+", info: "uren", detail: ""}
+ - {count: "40", specialCharacter: "+", info: "sprekers", detail: ""}
+ - {count: "4", specialCharacter: "", info: "parallele tracks", detail: ""}
 
 # Latest News Block
 latestNewsTitle: "Nieuws"
