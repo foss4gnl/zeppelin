@@ -2287,7 +2287,7 @@ time{
     background-size:cover
 }
 #typed-cursor{
-    visibility:hidden !important;
+    display: none !important;
 }
 @-webkit-keyframes blink{
     0%{
