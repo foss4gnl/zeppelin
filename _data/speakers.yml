@@ -26,17 +26,14 @@
   id: 5
   name: "Just"
   surname: "van den Broecke"
-  company: "JustObjects"
-  title: ""
+  company: "Just Objects"
+  title: "Open Source Geospatial Professional"
   bio: ""
   thumbnailUrl: JustvandenBroecke.jpg
   rockstar: true
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
+    - {name: "site", link: "https://justobjects.nl"}
+    - {name: "linkedin", link: ""} 
 - 
   id: 6
   name: "Paul"
