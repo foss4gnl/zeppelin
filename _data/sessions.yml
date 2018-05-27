@@ -11,6 +11,10 @@
   title: "Koffie"
   service: true
 -
+  id: 804
+  title: "Lunch"
+  service: true
+-
   id: 805
   title: "Afsluiting"
   service: true
