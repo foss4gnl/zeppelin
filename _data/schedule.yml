@@ -5,7 +5,7 @@
     - {title: "Software", color: "#90be4e"}
     - {title: "Technisch", color: "#03a9f4"}
     - {title: "Special", color: "#e91e63"}
-    - {title: "Analyse", color: "4CB05B"}
+    - {title: "Analyse", color: "#4CB05B"}
   timeslots:
     - {
     	startTime: "9:15",
