@@ -33,18 +33,29 @@
 -
   id: 001
   title: "MapWindow"
-  subtype: presentation
-  speakers: []
+  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
+  subtype: workshop
+  speakers: [3, 6]
+  language: en
+  complexity: "Intermediate"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 002
   title: "AHN2 & BAG"
+  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
   subtype: presentation
-  speakers: []
+  speakers: [3, 6]
+  language: en
+  complexity: "Intermediate"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 003
   title: "Dataconversies van satelietbeelden en andere sensoren om slimme inzichten te krijgen"
+  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
   subtype: presentation
-  speakers: []
+  speakers: [3, 6]
+  language: en
+  complexity: "Intermediate"
 -
   id: 004
   title: "Gebruik open source & closed source software voor data"
