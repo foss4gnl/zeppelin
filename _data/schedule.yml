@@ -9,7 +9,7 @@
     - {
     	startTime: "10:00",
     	endTime: "10:45",
-    	sessionIds: [801]
+    	sessionIds: [801, 802, 803]
     }
     - {
         startTime: "11:00",
