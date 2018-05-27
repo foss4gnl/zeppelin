@@ -7,17 +7,47 @@
     - {title: "Community", color: "#e91e63"}
   timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [801, 802]
+    	startTime: "9:15",
+    	endTime: "9:45",
+    	sessionIds: [801]
     }
     - {
-        startTime: "11:00",
-        endTime: "11:45",
+        startTime: "9:45",
+        endTime: "10:00",
         sessionIds: [802]
     }
     - {
-    	startTime: "12:00",
-    	endTime: "11:45",
+    	startTime: "10:00",
+    	endTime: "11:00",
     	sessionIds: [803]
+    }
+    - {
+    	startTime: "11:30",
+    	endTime: "12:45",
+    	sessionIds: [901]
+    }
+    - {
+    	startTime: "12:45",
+    	endTime: "13:45",
+    	sessionIds: []
+    }
+    - {
+    	startTime: "13:45",
+    	endTime: "15:00",
+    	sessionIds: []
+    }
+    - {
+    	startTime: "15:00",
+    	endTime: "15:15",
+    	sessionIds: []
+    }
+    - {
+    	startTime: "15:15",
+    	endTime: "16:30",
+    	sessionIds: []
+    }
+    - {
+    	startTime: "16:30",
+    	endTime: "18:00",
+    	sessionIds: []
     }
