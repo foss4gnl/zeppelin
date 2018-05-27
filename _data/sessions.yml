@@ -30,3 +30,148 @@
   id: 903
   title: "Blok 3 Sessies"
   service: true
+-
+  id: 001
+  title: "MapWindow"
+  subtype: presentation
+  speakers: []
+-
+  id: 002
+  title: "AHN2 & BAG"
+  subtype: presentation
+  speakers: []
+-
+  id: 003
+  title: "Dataconversies van satelietbeelden en andere sensoren om slimme inzichten te krijgen"
+  subtype: presentation
+  speakers: []
+-
+  id: 004
+  title: "Gebruik open source & closed source software voor data"
+  subtype: presentation
+  speakers: []
+-
+  id: 005
+  title: "MapGallery, de techniek achter woonzorgwijzer.info"
+  subtype: presentation
+  speakers: []
+-
+  id: 006
+  title: "Vast wel iets leuks - misschien PAN"
+  subtype: presentation
+  speakers: []
+-
+  id: 007
+  title: "Vastgoedanalyses met de BAG in PostGIS"
+  subtype: presentation
+  speakers: []
+-
+  id: 008
+  title: "Geoblacklight"
+  subtype: presentation
+  speakers: []
+-
+  id: 009
+  title: "OSM stack op kadastrale kaart 1830"
+  subtype: presentation
+  speakers: []
+-
+  id: 010
+  title: "Radar en AIS data met R"
+  subtype: presentation
+  speakers: []
+-
+  id: 011
+  title: "Verstening van tuinen"
+  subtype: presentation
+  speakers: []
+-
+  id: 012
+  title: "OS GIS en ETL"
+  subtype: presentation
+  speakers: []
+-
+  id: 013
+  title: "verschillende frameworks en welke te kiezen (OL2, 3 & 4, Leaflet, ...)"
+  subtype: presentation
+  speakers: []
+-
+  id: 014
+  title: "vermoedelijk over moderne webcartografie"
+  subtype: presentation
+  speakers: []
+-
+  id: 015
+  title: "FRESHEM: Zoet-zoutverdeling Zeeuwse ondergrond"
+  subtype: presentation
+  speakers: []
+-
+  id: 016
+  title: "NLMaps: samenwerken in kaart viewers"
+  subtype: presentation
+  speakers: []
+-
+  id: 017
+  title: "Nieuwe PDOK locatieservice"
+  subtype: presentation
+  speakers: []
+-
+  id: 018
+  title: "Heel NL in 3D"
+  subtype: presentation
+  speakers: []
+-
+  id: 019
+  title: "De kracht van PostGIS 3D analyse"
+  subtype: presentation
+  speakers: []
+-
+  id: 020
+  title: "Met PICO Nederland duurzaam maken"
+  subtype: presentation
+  speakers: []
+-
+  id: 021
+  title: "Wandelen op oude kaarten"
+  subtype: presentation
+  speakers: []
+-
+  id: 022
+  title: "INSPIRE als best practice ipv verplichting"
+  subtype: presentation
+  speakers: []
+-
+  id: 023
+  title: "Using computational graphs for geographical raster data sets"
+  subtype: presentation
+  speakers: []
+-
+  id: 025
+  title: "Stetl: geo-conversie-motor in NLExtract en Smart Emission"
+  subtype: presentation
+  speakers: []
+-
+  id: 026
+  title: "-PyGeoAPI - Towards a Python Web API for Emerging OGC Standards"
+  subtype: presentation
+  speakers: []
+-
+  id: 027
+  title: "Beheren van applicaties ESRI vs OpenSource"
+  subtype: presentation
+  speakers: []
+-
+  id: 028
+  title: "Automatische 3D reconstructie van steden met 3dfier"
+  subtype: presentation
+  speakers: []
+-
+  id: 029
+  title: "Geopapaparazzi, de mobiele GIS app"
+  subtype: presentation
+  speakers: []
+-
+  id: 030
+  title: "Open Source Web GIS in International Context"
+  subtype: presentation
+  speakers: []
