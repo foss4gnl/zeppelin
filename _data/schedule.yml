@@ -2,9 +2,10 @@
   date: "2014-10-24"
   dateReadable: "October 24"
   tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
-    - {title: "Community", color: "#e91e63"}
+    - {title: "Software", color: "#90be4e"}
+    - {title: "Technisch", color: "#03a9f4"}
+    - {title: "Special", color: "#e91e63"}
+    - {title: "Analyse", color: "#4CB05B"}
   timeslots:
     - {
     	startTime: "9:15",
