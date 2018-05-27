@@ -11,14 +11,22 @@
   title: "Koffie"
   service: true
 -
-  id: 901
-  title: "Sessies"
-  service: true
--
   id: 804
   title: "Koffie"
   service: true
 -
   id: 805
   title: "Afsluiting"
+  service: true
+-
+  id: 901
+  title: "Blok 1 Sessies"
+  service: true
+-
+  id: 902
+  title: "Blok 2 Sessies"
+  service: true
+-
+  id: 903
+  title: "Blok 3 Sessies"
   service: true
