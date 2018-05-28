@@ -189,7 +189,7 @@ footerBlocks:
   title: "FAQ"
   links:
 #    - {permalink: "/cod/", text: "Code of Conduct"
-    - {permalink: "https://www.osgeo.org/code_of_conduct/", text: "Code of Conduct"
+    - {permalink: "https://www.osgeo.org/code_of_conduct/", text: "Code of Conduct"}
 
 # Blog
 blogTitle: "Nieuws"
