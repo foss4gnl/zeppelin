@@ -180,7 +180,7 @@ footerBlocks:
   title: "Links"
   links:
    - {link: "https://osgeo.nl/", text: "OSGeo.nl"}
-   - {link: "wiki.osgeo.org/wiki/Nederlands", text: "Wiki"}
+   - {link: "https://wiki.osgeo.org/wiki/Nederlands", text: "Wiki"}
  -
   title: "Contact"
   links:
@@ -189,7 +189,7 @@ footerBlocks:
   title: "FAQ"
   links:
 #    - {permalink: "/cod/", text: "Code of Conduct"
-    - {permalink: "https://www.osgeo.org/code_of_conduct/", text: "Code of Conduct"}
+    - {link: "https://www.osgeo.org/code_of_conduct/", text: "Code of Conduct"}
 
 # Blog
 blogTitle: "Nieuws"
