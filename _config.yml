@@ -180,10 +180,11 @@ footerBlocks:
   title: "Links"
   links:
    - {link: "https://osgeo.nl/", text: "OSGeo.nl"}
+   - {link: "wiki.osgeo.org/wiki/Nederlands", text: "Wiki"}
  -
   title: "Contact"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:info@osgeo.nl", text: "info@osgeo.nl"}
  -
   title: "FAQ"
   links:
