@@ -180,7 +180,7 @@ footerBlocks:
   title: "Links"
   links:
    - {link: "https://osgeo.nl/", text: "OSGeo.nl"}
-   - {link: "https://wiki.osgeo.org/wiki/Nederlands", text: "Wiki"}
+   - {link: "https://wiki.osgeo.org/wiki/Nederlands/", text: "Wiki"}
  -
   title: "Contact"
   links:
