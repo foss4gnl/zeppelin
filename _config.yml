@@ -128,7 +128,7 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 
 # Tickets Block
 ticketsTitle: "Prijslijst"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsInfo: ""
 ticketsOffers:
  -
   name: "Workshops 10 juli (per dagdeel)"
