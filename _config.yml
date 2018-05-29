@@ -130,43 +130,33 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 ticketsTitle: "Prijslijst"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
+-
+  name: "Conferentiedag 11 juli"
+  price: "15"
+  priceCurrency: "Euro"
+  ticketsNumber: "200"
+  buyButtonLink: "https://www.eventbrite.nl/e/tickets-foss4gnl-2018-46048701907"
+  buyButtonText: "Koop nu"
+  additionalInfo: ""
+  soldOut: false
+  soldOutText: "Uitverkocht"
  -
   name: "Golden ticket 11 juli"
   price: "50"
   priceCurrency: "Euro"
   ticketsNumber: "200"
-  ribbon: "-5%"
-  buyButtonLink: "https://www.eventbrite.nl/e/tickets-foss4gnl-2018-46048701907#tickets"
+  buyButtonLink: "https://www.eventbrite.nl/e/tickets-foss4gnl-2018-46048701907"
   buyButtonText: "Koop nu"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
   soldOut: false
+    soldOutText: "Uitverkocht"
  -
-  name: "Workshops ochtend 10 juli"
+  name: "Workshops ochtend 10 juli (prijs per dagdeel)"
   price: "100"
   priceCurrency: "Euro"
   ticketsNumber: "200"
-  ribbon: "-20%"
   featured: true
-  buyButtonLink: "https://www.eventbrite.nl/e/tickets-foss4gnl-2018-46048701907#tickets"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
-  soldOut: false
-  disabled: false
- -
-  name: "Workshops middag 10 juli"
-  price: "100"
-  priceCurrency: "Euro"
-  ticketsNumber: "200"
-  buyButtonLink: "https://www.eventbrite.nl/e/tickets-foss4gnl-2018-46048701907#tickets"
+  buyButtonLink: "https://www.eventbrite.nl/e/tickets-foss4gnl-2018-46048701907"
   buyButtonText: "Koop nu"
-  additionalInfo: ""
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
   soldOut: false
   soldOutText: "Uitverkocht"
 
