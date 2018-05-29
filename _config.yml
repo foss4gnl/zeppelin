@@ -139,10 +139,10 @@ ticketsOffers:
   buyButtonText: "Koop nu"
   additionalInfo: ""
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2018-05-28T00:00"
-  validThrough: "2018-07-11T00:00"
   soldOut: false
   soldOutText: "Uitverkocht"
+  validFrom: "2018-05-28T00:00"
+  validThrough: "2018-07-11T00:00"
  -
   name: "Golden ticket 11 juli"
   price: "50"
@@ -151,23 +151,22 @@ ticketsOffers:
   buyButtonLink: "https://www.eventbrite.nl/e/tickets-foss4gnl-2018-46048701907"
   buyButtonText: "Koop nu"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2018-05-28T00:00"
-  validThrough: "2018-07-11T00:00"
   soldOut: false
   soldOutText: "Uitverkocht"
+  validFrom: "2018-05-28T00:00"
+  validThrough: "2018-07-11T00:00"
  -
-  name: "Workshops ochtend 10 juli (prijs per dagdeel)"
+  name: "Workshops 10 juli (per dagdeel)"
   price: "100"
   priceCurrency: "Euro"
   ticketsNumber: "200"
-  featured: true
   buyButtonLink: "https://www.eventbrite.nl/e/tickets-foss4gnl-2018-46048701907"
   buyButtonText: "Koop nu"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2018-05-28T00:00"
-  validThrough: "2018-07-10T00:00"
   soldOut: false
   soldOutText: "Uitverkocht"
+  validFrom: "2018-05-28T00:00"
+  validThrough: "2018-07-10T00:00"
 
 # Footer
 socialLinks:
