@@ -142,9 +142,9 @@ ticketsOffers:
   soldOutText: "Uitverkocht"
   validFrom: "2018-05-28T00:00"
   validThrough: "2018-07-10T00:00"
-  -
-  name: "Conferentiedag 11 juli"
-  price: "15"
+ -
+  name: "Golden ticket 11 juli"
+  price: "50"
   priceCurrency: "Euro"
   ticketsNumber: "200"
   buyButtonLink: "https://www.eventbrite.nl/e/tickets-foss4gnl-2018-46048701907"
